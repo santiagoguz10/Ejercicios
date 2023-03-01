@@ -1,0 +1,8 @@
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Prueba_tecnica\bin\Debug\Prueba_tecnica.exe.config
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Prueba_tecnica\bin\Debug\Prueba_tecnica.exe
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Prueba_tecnica\bin\Debug\Prueba_tecnica.pdb
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Prueba_tecnica\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Prueba_tecnica\obj\Debug\Ejercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Prueba_tecnica\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Prueba_tecnica\obj\Debug\Prueba_tecnica.exe
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Prueba_tecnica\obj\Debug\Prueba_tecnica.pdb

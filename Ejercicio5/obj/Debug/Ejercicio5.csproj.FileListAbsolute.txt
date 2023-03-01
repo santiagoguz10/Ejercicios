@@ -1,0 +1,8 @@
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Ejercicio5\obj\Debug\Ejercicio5.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Ejercicio5\obj\Debug\Ejercicio5.csproj.SuggestedBindingRedirects.cache
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\santi\OneDrive\Documentos\Proyectos\.net\Prueba_tecnica\Ejercicio5\obj\Debug\Ejercicio5.pdb
